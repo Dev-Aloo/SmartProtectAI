@@ -1,0 +1,15 @@
+SisFall_dataset/
+*.csv
+
+*.pkl
+
+*.mp3
+*.wav
+
+__pycache__/
+*.pyc
+
+.env
+
+.vscode/
+*.code-workspace

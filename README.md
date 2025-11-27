@@ -1,6 +1,8 @@
 # SmartProtectAI 🛡️  
 ### Real-Time Fall Detection & Scream Detection using Machine Learning  
 
+A real-time emergency detection system combining motion-based fall detection and audio-based scream detection using Machine Learning.
+
 SmartProtectAI is a dual-mode safety monitoring system that detects:
 
 - **Falls** using motion sensor data  
